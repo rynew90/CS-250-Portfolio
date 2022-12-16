@@ -8,4 +8,4 @@
             Using an agile approach when developing programs allows enough flexibility in the development process to allow for quick and easy implementation of changes that the client may have later on in the process. Utilizing daily standups, Scrum teams, and Sprints in my future development work will allow me to approach program development projects in the future with more certainty and confidence in my ability to create a program that will satisfy all user and client needs.
     
     What does it mean to be a good team member in software development?
-    
+            A good team member strives for good communication across the team to ensure that everyone is on the same page and looks for ways to help other members of the team, after their own tasks have been completed. A good team member also is not afraid to voice where they may have short comings so they can get the help that they need in order to not slow down the entire team. 
